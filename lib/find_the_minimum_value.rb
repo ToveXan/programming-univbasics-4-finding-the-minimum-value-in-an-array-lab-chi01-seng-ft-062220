@@ -9,5 +9,5 @@ def find_min_value(array)
   end
   min_value
 end
-scale = [2,3,4,5]
-puts find_min_value(scale)
+
+puts find_min_value([10,5,3,7,19,1,3,10])
